@@ -1,4 +1,4 @@
-![Heading](https://raw.githubusercontent.com/Pethical/Pethical/master/waves.svg)
+[![Header](https://raw.githubusercontent.com/Pethical/Pethical/master/waves.svg)](#)
 
 <p align="center">
   <a href="https://github.com/Pethical">
@@ -27,7 +27,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=pethical.github"/>
 </p>
 
-![Footer](https://raw.githubusercontent.com/Pethical/Pethical/master/waves-flip.svg)
+[![Footer](https://raw.githubusercontent.com/Pethical/Pethical/master/waves-flip.svg)](#)
 
 <!--
 **Pethical/Pethical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

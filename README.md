@@ -1,7 +1,9 @@
 ![Heading](https://raw.githubusercontent.com/Pethical/Pethical/master/waves.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pethical&show_icons=true&hide_border=true" align="center" />
+  <a href="https://github.com/Pethical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pethical&show_icons=true&hide_border=true" align="center" />
+  </a>
 </p>
 <hr />
 <h4 align="center">My favourite repositories</h4>

@@ -8,14 +8,9 @@
 <hr />
 <h4 align="center">My favourite repositories</h4>
 <p align="center">
-  <a href="https://github.com/i-Cell-Mobilsoft-Open-Source/etcdmanager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Cell-Mobilsoft-Open-Source&repo=etcdmanager&hide_border=true" />
-  </a>
   <a href="https://github.com/MicroCoinHU/MicroCoin-Rider">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MicroCoinHU&repo=MicroCoin-Rider&hide_border=true" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/Pethical/EKAER-Dotnet-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pethical&repo=EKAER-Dotnet-Client&hide_border=true" />
   </a>

@@ -14,9 +14,6 @@
   <a href="https://github.com/MicroCoinHU/MicroCoin-Rider">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MicroCoinHU&repo=MicroCoin-Rider&hide_border=true" />
   </a>
-  <a href="https://github.com/Pethical/EKAER-Dotnet-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pethical&repo=EKAER-Dotnet-Client&hide_border=true" />
-  </a>
 </p>
 <hr />
 <h4 align="center">Follow me</h4>
